@@ -1,0 +1,30 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Help.chm
+Contents file=Help.hhc
+Default Window=xxx
+Default topic=TOC.htm
+Display compile progress=No
+Index file=Help.hhk
+Language=0x419 Русский (Россия)
+Title=Программное обеспечение для вагонных весов тип "МР"
+
+[WINDOWS]
+xxx=,"Help.hhc","Help.hhk","TOC.htm","TOC.htm",,,,,0x42120,,0x3046,[271,372,593,566],,,,,,,0
+
+
+[FILES]
+TOC.htm
+MainInfo.htm
+Install.htm
+Options.htm
+Using.htm
+
+[ALIAS]
+#include a_alias.h
+
+[MAP]
+#include a_map.h
+
+[INFOTYPES]
+
